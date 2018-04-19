@@ -8,7 +8,7 @@
         <ul class="navbar-nav mr-auto">
 
             <li class="nav-item">
-                <a class="nav-link" href="/products/create">Add Product</a>
+                <a class="nav-link" href="/products/create-step1">Add Product</a>
             </li>
 
         </ul>
